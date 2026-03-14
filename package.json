@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/significado-de-la",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a significado-de-la",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/significado-de-la.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.stockbitcoin.info/es/significado-de-la-danza-del-jaguar/"
+    },
+    "homepage": "https://www.stockbitcoin.info/es/significado-de-la-danza-del-jaguar/"
+}
